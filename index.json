@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "librabbitmq",
+  "versions": [
+    {
+      "commit": "a7f318055f4600fc15df17475d6f52c654c6abb4",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:38:50.080643+00:00"
+    }
+  ]
+}
